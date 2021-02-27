@@ -6,5 +6,5 @@ Thanks for visiting my github page. Here, I will show my projects and briefly in
 
 
 My Linkedin page:  
-<a href="www.linkedin.com/in/johnny-tsou-t109368011">
+<a href="https://www.linkedin.com/in/johnny-tsou-t109368011">
 <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" style="border: none" width="150"></a>
