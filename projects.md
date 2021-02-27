@@ -2,7 +2,7 @@
  
 ## FPGA Project
  
-##### Acclerte sobel filter and HDMI video output streaming on PYNQ-Z2. 
+* ##### Acclerte sobel filter and HDMI video output streaming on PYNQ-Z2. 
  
 ## Machine Learning in NTUT
  
@@ -27,8 +27,8 @@
 ##### C# - Very Simple waveform drawing and image processing program.
 
 ## Project in progress
-#####　Road Damage detection on ZCU104
-This project is still in progress. This is the phase 1 progress report. [slide]()
+* ##### Road Damage detection on ZCU104
+    This project is still in progress. This is the phase 1 progress report. [slide]()
 </br>
 
 ##### AIoT project on PYNQ-Z2
