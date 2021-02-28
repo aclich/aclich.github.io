@@ -1,6 +1,6 @@
 # Award
 * #### Ministry of Education 2020 Artificial Intelligence CUP Award
-    Execellent achievement in the 2020 AI CUP Competition on 5 Types of Defects in Irwin Mangp Classification.  
+    Execellent achievement in the 2020 AI CUP Competition on 5 Types of Defects in Irwin Mango Classification.  
     [Credential Link](https://global.turingcerts.com/co/cert?id=790)  
     <img src="AI_CUP_Mango.png">  
 
