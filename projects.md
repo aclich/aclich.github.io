@@ -2,7 +2,7 @@
  
 ## FPGA Project
  
-* ##### [Acclerte sobel filter and HDMI video output streaming on PYNQ-Z2](https://github.com/aclich/PYNQ-Z2_sobel_filter_HDMI) 
+* ##### [PYNQ-Z2-Accelerte Sobel Filter on USB camera to HDMI video streaming](https://github.com/aclich/PYNQ-Z2_sobel_filter_HDMI) 
  
 ## Machine Learning
  
@@ -25,7 +25,7 @@
 
 ## Project in progress
 * ##### Road Damage detection on ZCU104
-    This project is still in progress. This is the phase 1 progress report. [slide](https://drive.google.com/file/d/1MgMHQy5AlZh62_PNSQCDdqoI-uOqAvFr/view?usp=sharing)
+    This project is still in progress. This is the phase 1 progress report. [slide](https://drive.google.com/file/d/19sqNnrAGySQZyj_zXO6LcY145j8rnC_w/view?usp=sharing)
 
 * ##### AIoT project on PYNQ-Z2
-    Using PYNQ-Z2 FPGA board to build an AIoT application. Expected results are implement DPU on PYQN-Z2 to accelerate Object detection model with mask dataset and send an alarm to the user if the board detected someone without wearing a mask.
+    Using PYNQ-Z2 FPGA board to build an AIoT application. Expected results are implement DPU on PYQN-Z2 to accelerate Object detection model with mask dataset and send an alarm to the user if the board detected someone without wearing a mask. 
